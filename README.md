@@ -1,6 +1,6 @@
 # D-separation checker
 
-This is a Python implementation for checking D-separation and I-equivalence in Bayesian Networks (BN).
+This is a Python implementation of an algorithm for checking D-separation and I-equivalence in Bayesian Networks (BN).
 
 The code is a fork of https://github.com/lingxuez/bayes-net. It has been updated for Python 3 and contains a script `run_cases.py` for running d-separation experiments without using an external text file as an input.
 
